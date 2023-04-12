@@ -1,5 +1,4 @@
-# mini-project-V
-
+# NLP Project
 The repo with instructions for Mini Project V
 
 Welcome to your final mini-project of this bootcamp. We hope you will enjoy it. 
